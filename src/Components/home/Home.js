@@ -7,8 +7,7 @@ function Home() {
     <div>
         <Header/>
         <Main/>
-    </div>
-  )
+      </div> )
 }
 
 export default Home

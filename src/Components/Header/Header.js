@@ -5,6 +5,8 @@ function Header() {
   return (
     <div className='Header'>
         <div className='b-header'>
+
+          
             <img src="https://react-builder-burger.firebaseapp.com/static/media/burger-logo.b8503d26.png" alt=""></img> 
         </div>
         <div className='l-header'>
@@ -12,6 +14,8 @@ function Header() {
             <a className='builder' href='/login'>Login</a>
         </div>
     </div>
+    
+
     
     
   )
